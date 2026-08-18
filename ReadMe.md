@@ -27,3 +27,10 @@ Opens at http://localhost:8501.
   trained and included in this folder — no need to retrain it.
   If it's missing, run `python3 train_classifier.py` first (needs the AMI
   dataset under `data/raw/`, downloaded via `python3 download_datasets.py`).
+
+## NOTE 
+ 
+ To Run and Execute the Source code and project you need to download the Data and Models provided in the below links
+ 
+ Data : https://drive.google.com/drive/folders/1Wg4qpVqPFBL0oVsZQbq9bRBdcJnsPpeZ?usp=drive_link
+ Models : https://drive.google.com/drive/folders/1vFCE4KNGlDsg9plw6KeQdB8ld8I2jbpU?usp=drive_link
